@@ -1,20 +1,20 @@
-##Java Console Calculator
+# **Java Console Calculator**
 
 
-Description:
+## **Description**
 A simple calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division) using Java console input/output.
 
-How to Run:
+## **How to Run**
 1. Open Terminal in VS Code.
 2. Compile:   javac Calculator.java
 3. Run:       java Calculator
 
-Features:
+##**Features:**
 - Supports +, -, *, /
 - Handles division by zero
 - Loops until the user exits
 
-Technologies:
+##**Technologies:**
 - Java JDK 22
 - VS Code
 - Console-based input/output
